@@ -1,6 +1,6 @@
 ![banner](https://i.ibb.co/HtZp6Hh/Linkedin.jpg)
 
-<h1>Hi 👋, I'm ![img](https://i.ibb.co/C1NrMyV/Screenshot-1.png) </h1>
+<h1>Hi 👋, I'm <img src="https://i.ibb.co/C1NrMyV/Screenshot-1.png" /> </h1>
 <hr>
 <p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas. <br>
 I'm actively seeking employment opportunities, whether they are in the onsite or remote.</p>
