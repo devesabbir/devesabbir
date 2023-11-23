@@ -1,7 +1,10 @@
 <img src="https://i.ibb.co/HtZp6Hh/Linkedin.jpg" />
 
-<h1>Hi 👋, I'm Sabbir Hossain </h1>
+<h1 style="color:red;" >Hi 👋, I'm Sabbir Hossain </h1>
+
+`
 <hr>
+`
 <p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas. <br>
 I'm actively seeking employment opportunities, whether they are in the onsite or remote.</p>
 
