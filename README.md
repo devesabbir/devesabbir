@@ -10,7 +10,7 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesabbir&label=Profile%20views&color=0e75b6&style=flat" alt="devesabbir" /> </p>
 
 
-- 🌱 I’m currently learning html *****PHP Laravel*****
+- 🌱 I’m currently learning *****PHP Laravel*****
 
 
 <h3>Specialized In </h3> 
