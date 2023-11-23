@@ -1,7 +1,10 @@
 ![banner](https://i.ibb.co/HtZp6Hh/Linkedin.jpg)
 
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-<h3 align="center">Professional web developer</h3>
+
+<p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas.</p>
+
+-  I'm actively seeking employment opportunities, whether they are in the onsite or remote.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesabbir&label=Profile%20views&color=0e75b6&style=flat" alt="devesabbir" /> </p>
 
