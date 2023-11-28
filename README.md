@@ -4,6 +4,8 @@
 
 <hr>
 
+<p align="left"> <a href="https://twitter.com/devesabbir" target="blank"><img src="https://img.shields.io/twitter/follow/devesabbir?logo=twitter&style=for-the-badge" alt="devesabbir" /></a> </p>  
+
 <p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas. <br>
 I'm actively seeking employment opportunities, whether they are in the onsite or remote.</p>
 
