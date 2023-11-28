@@ -44,8 +44,7 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 <a href="https://discord.gg/devesabbir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devesabbir" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🔥   My Stats :</h3>
-
+<h3 align="left">🔥 My Stats:</h3>
 <p>
   <img src="https://streak-stats.demolab.com?user=devesabbir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
