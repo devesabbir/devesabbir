@@ -14,7 +14,7 @@ I'm actively seeking employment opportunities, whether they are in the onsite or
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesabbir&label=Profile%20views&color=0e75b6&style=flat" alt="devesabbir" /> </p>
 
-<p> <a href="https://twitter.com/devesabbir" target="blank"><img src="https://img.shields.io/twitter/follow/devesabbir?logo=twitter&style=for-the-badge" alt="devesabbir" /></a> <a href="https://www.linkedin.com/in/devesabbir/" target="_blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /> </a>
+<p> <a href="https://twitter.com/devesabbir" target="_blank"><img src="https://img.shields.io/twitter/follow/devesabbir?logo=twitter&style=for-the-badge" alt="devesabbir" /></a> <a href="https://www.linkedin.com/in/devesabbir/" target="_blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /> </a>
 </p>
 
 - 🌱 I’m currently learning *****PHP Laravel*****
