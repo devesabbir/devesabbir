@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  <img height="80" src="https://i.ibb.co/Gcg00bR/giphy.gif"  />
+  <img width="100" height="80" src="https://i.ibb.co/Gcg00bR/giphy.gif"  />
 </p>
 
 <p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas. <br>
