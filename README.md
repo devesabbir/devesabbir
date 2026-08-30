@@ -6,7 +6,7 @@
 
 <hr>
 
-<p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas.</p>
+<p>Hi, I’m Sabbir Hossain, a professional WordPress Developer with 5+ years of experience in WordPress, Elementor Pro, business websites, landing pages or custom headless solutions. I help businesses, startups, and agencies build  modern, responsive, SEO-friendly websites that support real growth. My expertise includes Elementor customization, responsive design, CSS, JavaScript, website redesign, Figma to WordPress, and WordPress customization. I focus on quality, fast-loading websites, user-friendly design, and reliable communication. Let’s create a website that helps your business grow!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesabbir&label=Profile%20views&color=0e75b6&style=flat" alt="devesabbir" /> </p>
 
