@@ -6,8 +6,7 @@
 
 <hr>
 
-<p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas. <br>
-I'm actively seeking employment opportunities, whether they are in the onsite or remote.</p>
+<p>As a front-end web developer with back-end proficiency, I thrive on discussing technology, software, coding, and innovative ideas.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesabbir&label=Profile%20views&color=0e75b6&style=flat" alt="devesabbir" /> </p>
 
